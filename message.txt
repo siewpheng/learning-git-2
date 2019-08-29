@@ -8,4 +8,4 @@ Hello 3
 add commit 1 on X
 add commit 2 on X
 
-Branch A updated
+Bra
