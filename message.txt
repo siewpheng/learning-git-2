@@ -5,10 +5,11 @@ test
 test 123
 Hello 2
 Hello 3
-<<<<<<< HEAD
 Hello Z
-=======
 
 add commit 1 on y
 test 
->>>>>>> 28a378820f4580ebed0454b576a6cd4f750d6b6a
+
+
+siew pheng Lew
+siew pheng Lew
